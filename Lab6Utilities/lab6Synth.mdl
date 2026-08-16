@@ -1,5 +1,5 @@
 Model {
-  Name			  "lab3Synth"
+  Name			  "lab6Synth"
   Version		  3.00
   SimParamPage		  "Solver"
   SampleTimeColors	  off
@@ -124,7 +124,7 @@ Model {
     FontAngle		    "normal"
   }
   System {
-    Name		    "lab3Synth"
+    Name		    "lab6Synth"
     Location		    [102, 252, 611, 858]
     Open		    on
     ModelBrowserVisibility  off

@@ -1,5 +1,5 @@
 Model {
-  Name			  "lab3Mod"
+  Name			  "lab6Mod"
   Version		  4.00
   SampleTimeColors	  off
   LibraryLinkDisplay	  "none"
@@ -154,7 +154,7 @@ Model {
     FontAngle		    "normal"
   }
   System {
-    Name		    "lab3Mod"
+    Name		    "lab6Mod"
     Location		    [69, 492, 467, 718]
     Open		    on
     ModelBrowserVisibility  off

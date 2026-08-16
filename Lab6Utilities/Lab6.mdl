@@ -1,5 +1,5 @@
 Model {
-  Name			  "Lab3"
+  Name			  "Lab6"
   Version		  8.9
   SavedCharacterEncoding  "UTF-8"
   GraphicalInterface {
@@ -157,11 +157,11 @@ Model {
     $PropName		    "DataLoggingOverride"
     $ObjectID		    7
     $ClassName		    "Simulink.SimulationData.ModelLoggingInfo"
-    model_		    "Lab3"
+    model_		    "Lab6"
     Array {
       Type		      "Cell"
       Dimension		      1
-      Cell		      "Lab3"
+      Cell		      "Lab6"
       PropName		      "logAsSpecifiedByModels_"
     }
     Array {
@@ -1079,7 +1079,7 @@ Model {
     }
   }
   System {
-    Name		    "Lab3"
+    Name		    "Lab6"
     Location		    [580, 45, 1212, 595]
     Open		    on
     PortBlocksUseCompactNotation off
@@ -1103,7 +1103,7 @@ Model {
       Ports		      []
       Position		      [65, 116, 147, 170]
       ZOrder		      -1
-      OpenFcn		      "lab3Synth"
+      OpenFcn		      "lab6Synth"
       FontSize		      12
       RequestExecContextInheritance off
       Variant		      off
@@ -1139,7 +1139,7 @@ Model {
       Ports		      []
       Position		      [205, 115, 302, 170]
       ZOrder		      -2
-      OpenFcn		      "lab3Mod"
+      OpenFcn		      "lab6Mod"
       FontSize		      12
       RequestExecContextInheritance off
       Variant		      off
@@ -1176,7 +1176,7 @@ Model {
       Position		      [355, 116, 517, 170]
       ZOrder		      -3
       BlockMirror	      on
-      OpenFcn		      "lab3CTSys1"
+      OpenFcn		      "lab6CTSys1"
       FontSize		      12
       RequestExecContextInheritance off
       Variant		      off
@@ -1212,7 +1212,7 @@ Model {
       Ports		      []
       Position		      [66, 211, 225, 265]
       ZOrder		      -4
-      OpenFcn		      "lab3CTSys2"
+      OpenFcn		      "lab6CTSys2"
       FontSize		      12
       RequestExecContextInheritance off
       Variant		      off
@@ -1248,7 +1248,7 @@ Model {
       Ports		      []
       Position		      [265, 212, 399, 265]
       ZOrder		      -5
-      OpenFcn		      "lab3DTSys"
+      OpenFcn		      "lab6DTSys"
       FontSize		      12
       RequestExecContextInheritance off
       Variant		      off

@@ -10,7 +10,7 @@ frequency response of an LTI system therefore gives complete insight into its be
 
 This lab also uses Simulink, an icon-driven simulation package that represents a system as a
 block diagram and then digitally simulates its behavior. The models it needs are in
-[`Lab3Utilities/`](Lab3Utilities), and [`simulink_help.pdf`](simulink_help.pdf) is a short
+[`Lab6Utilities/`](Lab6Utilities), and [`simulink_help.pdf`](simulink_help.pdf) is a short
 reference for the tool.
 
 ## Getting Started

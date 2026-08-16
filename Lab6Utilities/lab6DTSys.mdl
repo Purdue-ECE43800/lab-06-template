@@ -1,5 +1,5 @@
 Model {
-  Name			  "lab3DTSys"
+  Name			  "lab6DTSys"
   Version		  7.1
   MdlSubVersion		  0
   GraphicalInterface {
@@ -608,7 +608,7 @@ Model {
     FontAngle		    "normal"
   }
   System {
-    Name		    "lab3DTSys"
+    Name		    "lab6DTSys"
     Location		    [197, 100, 941, 482]
     Open		    on
     ModelBrowserVisibility  off
