@@ -17,12 +17,9 @@ reference for the tool.
 
 1. Git clone the repository.
 
-2. Lab instructions can be found in [`lab6_instructions.pdf`](lab6_instructions.pdf), but the
-   [`lab6_report.ipynb`](lab6_report.ipynb) should be your primary reference.
+2. Open a new Terminal, run the command `jupyter notebook` and open `lab6_report.ipynb`.
 
-3. Open a new Terminal, run the command `jupyter notebook` and open `lab6_report.ipynb`.
-
-4. Complete the lab report `lab6_report.ipynb`.
+3. Complete the lab report `lab6_report.ipynb`.
 
 ## Submission
 
