@@ -139,7 +139,10 @@ function sys=mdlUpdate(t,x,u,N,T_s,plot_period)
       ylabel('Amplitude');
       title('Signal');
      
-      X = abs(fft( hamming(N).*sig ));
+      % Hamming window computed directly (same as hamming(N)) so the
+      %   Signal Processing Toolbox is not required
+      w = 0.54 - 0.46*cos(2*pi*(0:N-1)'/(N-1));
+      X = abs(fft( w.*sig ));
       f = (1/T_s)*((1:N)-1)./N;
       subplot(2,1,2)
       %%%% a stupid fix to keep multiple axis warnings from popping up - SJK
